@@ -2,13 +2,13 @@
 
 This repository contains the source code of my personal website ([ale.desu.at](https://ale.desu.at)). It's made to be as lightweight as possible and uses pure CSS, JavaScript and jQuery.
 
-#### Features
+### Features
 
 * Dynamic page loading without refreshing the window thanks to jQuery
 * State pushing to browser history
 * Automatic and toggleable light/dark mode
 
-#### Notes
+### Notes
 
 This project uses:
 
