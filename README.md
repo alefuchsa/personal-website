@@ -15,4 +15,4 @@ This project uses:
 * jQuery for dynamic page loading
 * [oneko.js fork](https://github.com/tylxr59/oneko.js/tree/main)
 
-This website used to be a blog, which is used as a link collection now. The load function of jQuery loads the nested element into the parent element. In order to make these dynamic links work, an onclick attribute has to be given (onclick="redirect(this, event)").
+This website used to be a blog, which is used as a link collection now. The load function of jQuery loads the nested element into the parent element. In order to make these dynamic links work, an onclick attribute has to be given (onclick="redirect(this, event)"). This redirection only works on a web server.
